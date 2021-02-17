@@ -17,12 +17,6 @@
       "text": "Sleep",
       "day": "Feb 7 2:30pm",
       "reminder": false
-    },
-    {
-      "text": "a",
-      "day": "a",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
